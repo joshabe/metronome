@@ -8,23 +8,23 @@
 
 **Desktop** buttons have a height of `34px` with `20px` of padding on each size. They inherit the width of their contents. They have a font size of `14px`  
 
-/_img/desktopbutton_example.png
+_img/desktopbutton_example.png
   
 **Mobile** buttons have a larger height of `45px` and span the full width of their container. They also increase in font size to `16px`
 
-/_img/mobilebutton_example.png
+_img/mobilebutton_example.png
 
 
 ## Primary buttons
 Primary buttons contain the most important or critical action of a page typically complete a task. Visually, they have the most contrast against the page and should appear before secondary buttons, links or disabled buttons. Only one primary button should appear per page.
 
 ### Example
-/_img/primarybutton_example.png
+_img/primarybutton_example.png
 
 ## Secondary buttons
 Subordinate to primary, secondary buttons have less visual contrast against the page. Secondary actions tend to be less utilized and are often counter to the primary button action (e.g. declining or abandoning a process).
 
-/_img/secondarybutton_example.png
+_img/secondarybutton_example.png
 
 ## Disabled buttons
 Disabled buttons are non-interactive and indicate a button is unusable. Disabled buttons are not required to be contrast complainant since they are not functional elements.
